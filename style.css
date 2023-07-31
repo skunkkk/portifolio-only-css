@@ -54,7 +54,10 @@ li {
   margin: 4%;
   font-size: 1.5rem;
   font-weight: bold;
-
+  color: white;
+}
+a{
+  color: white;
 }
 
 
@@ -64,6 +67,7 @@ li:hover {
   transition: .6s;
   cursor: crosshair;
 }
+
 
 
 a:visited{
